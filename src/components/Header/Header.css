@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #430e84;
+    margin-bottom: 10px;
+    }
+  
+  .title {
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+
+  }
+  
+  .scores {
+    float: right;
+  }
